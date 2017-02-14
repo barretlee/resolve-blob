@@ -5,7 +5,7 @@
 ### 操作方式
 
 ```
-git clone https://github.com/demo-platform/resolve-blob.git
+git clone https://github.com/barretlee/resolve-blob.git
 cd resolve-blob
 open demo/index.html
 node app.js
